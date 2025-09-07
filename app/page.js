@@ -120,7 +120,7 @@ export default function Portfolio() {
 </section>
 
 
-      {/* Education */}
+      {/* Education <a href="/resume.pdf" download>Download Resume</a> */}
 <section id="education" className="max-w-6xl mx-auto px-6 py-24">
   <h3 className="text-4xl font-bold mb-16 text-purple-400 text-center">
     Education
@@ -396,7 +396,7 @@ export default function Portfolio() {
             Get in Touch
           </h3>
           <p className="mb-8 text-gray-400 text-lg">
-            Let's build something amazing together 🚀
+            Let&apos;s build something amazing together 🚀
           </p>
           <div className="flex justify-center gap-10">
             <a href="mailto:navaneethreddygdpl@gmail.com">
